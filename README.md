@@ -16,7 +16,11 @@
 7.参数验证 hibernate-validation <br/>
     定义统一处理异常，提取参数数据和错误描述 <br/>
 8.日志统一操作 <br/>
-9.第三方授权登录 auth2.0 <br/>
+9.第三方授权登录 <br/>auth2.0 <br/>jtw+token<br/>
+
+<br/><br/><br/>
+相关优秀文章<br/>
+HandlerInterceptor拦截器的使用 ——（二）自定义注解 https://blog.csdn.net/zhibo_lv/article/details/81738940<br/>
    
   
  
