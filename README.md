@@ -29,6 +29,8 @@
 9.第三方授权登录 <br/>auth2.0 <br/>jtw+token<br/>
 
 <br/><br/><br/>
+API加密框架Monkey-Api-Encrypt发布1.2版本  https://mp.weixin.qq.com/s/TbTr44Hc9gkJB40L9eHHYQ
+https://github.com/yinjihuan/monkey-api-encrypt
 相关优秀文章<br/>
 HandlerInterceptor拦截器的使用 ——（二）自定义注解 -是实现用户权限控制 https://blog.csdn.net/zhibo_lv/article/details/81738940<br/>
    
